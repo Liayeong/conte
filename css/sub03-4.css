@@ -974,6 +974,54 @@ footer .f_list li {
         width: 100%;
         transition-duration:0.7s;
     }
+    /*WELLNESS PROGRAM*/
+    .wp {
+        width: 100%;
+        transition-duration:0.7s;
+    }
+    .wp>h1 {
+        margin-left: 130px;
+    }
+    /*WELLNES PROGRAM TIME TABLE*/
+    .w_time {
+        width: 100%;
+        transition-duration:0.7s;
+    }
+    .w_time .clock {
+        margin-left: 130px;
+    }
+    /*WELLNES COACH*/
+    .w_coach {
+        width: 100%;
+        transition-duration:0.7s;
+    }
+    .w_coach .title {
+        margin-left: 130px;
+    }
+    /*SPECIAL PROGRAM*/
+    .special {
+        width: 100%;
+        transition-duration:0.7s;
+    }
+    .special>h1 {
+        margin-left: 130px;
+    }
+    /*SPECIAL PROGRAM TABLE*/
+    .s_time {
+        width: 100%;
+        transition-duration:0.7s;
+    }
+    .s_time .icon {
+        margin-left: 130px;
+    }
+    /*SPECIAL PROGRAM COACH*/
+    .s_coach {
+        width: 100%;
+        transition-duration:0.7s;
+    }
+    .s_coach .title {
+        margin-left: 130px;
+    }
 }
 /*1200px 미만일 때*/
 @media screen and (max-width:1199px){
